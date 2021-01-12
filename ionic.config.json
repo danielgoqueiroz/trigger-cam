@@ -1,0 +1,7 @@
+{
+  "name": "trigger-cam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
